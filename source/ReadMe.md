@@ -1,4 +1,4 @@
-# Front-end desenvolvido para a um conversro de câmbio inteligent
+# Front-end desenvolvido para um conversor de câmbio inteligente
 
 Este projeto consiste em um front-end para um conversor de câmbio inteligente, desenvolvido como parte da disciplina de Programação para Internet. O objetivo principal foi aplicar conceitos de desenvolvimento web moderno, utilizando TypeScript para a lógica, HTML para a estrutura e CSS para a estilização, resultando em uma interface intuitiva e funcional para a conversão de moedas.
 
