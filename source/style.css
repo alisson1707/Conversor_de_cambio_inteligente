@@ -1,0 +1,28 @@
+body {
+    background-color:black;
+    color: aliceblue;
+     width: 200px;
+    padding: 20px;
+        margin: 50px auto;
+        text-align: center;
+        font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+}
+
+input {
+    background-color:aliceblue;
+    color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+    border: 1px solid aliceblue;
+    padding: 5px;
+    margin: 5px;
+}
+
+input:hover{
+    background-color: blueviolet;
+}
+

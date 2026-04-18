@@ -1,0 +1,16 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "",
+  "source": "source/index.html",
+  "scripts": {
+    "start": "parcel source/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "typescript": "^6.0.2"
+  }
+}
